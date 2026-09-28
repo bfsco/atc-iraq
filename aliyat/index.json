@@ -7,6 +7,17 @@
     "equipment": "DIESEL WHEEL LOADER FORKLIFT .",
     "model": "LG946",
     "htmlPath": "aliyat/ATC-LFT-WL-3741.html",
-    "publishedAt": "2026-09-28T10:46:08.843Z"
+    "publishedAt": "2026-09-28T10:46:08.843Z",
+    "_matched": []
+  },
+  {
+    "certNo": "ATC-LFT-WL-3821",
+    "chassis": "LSH0855HLRAA05831",
+    "serial": "LSH0855HLRAA05831",
+    "owner": "MSK CO.",
+    "equipment": "DIESEL WHEEL LOADER",
+    "model": "CDM855H",
+    "htmlPath": "aliyat/ATC-LFT-WL-3821.html",
+    "publishedAt": "2026-09-28T16:25:12.066Z"
   }
 ]
